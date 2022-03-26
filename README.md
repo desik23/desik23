@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Desik (day-sik)
-- 👀 I’m interested in Data Science projects in the Sustainable Development and Water Resources Management area. 
+- 👀 I’m interested in Data Science projects in the Sustainable Development, Climate Change and Water Resources Management areas. 
 - 🌱 I’m currently a student at UC Santa Barbara in the Master's in Environmental Data Science pogram. 
  
  Previous Experience: Water Resources Modelling💧, Coastal Imagery Studies🌊, Developmental Economics💲
